@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sundari</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data analyst| Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
  <img src="https://github.com/sundari454/sundari454/blob/main/Linkedin_Heading.png" />
